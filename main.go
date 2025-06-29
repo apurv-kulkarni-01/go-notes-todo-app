@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"example.com/note"
+	"github.com/apurv-kulkarni-01/go-notes-todo-app/note"
 )
 
 func main() {
